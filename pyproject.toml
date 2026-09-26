@@ -5,5 +5,7 @@ requires-python = ">=3.10"
 dependencies = [
     "pandas>=2.3.3",
     "pandas-stubs~=2.3.3",
+    "scikit-learn>=1.7.2",
     "tables>=3.10.1",
+    "torch>=2.14.0",
 ]
